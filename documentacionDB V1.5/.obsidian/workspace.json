@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "55f0f25115b176da",
+    "type": "split",
+    "children": [
+      {
+        "id": "308472cc5392daf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ad228df27f81926",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c364c6d3b58eb071",
+    "type": "split",
+    "children": [
+      {
+        "id": "b934362192c590b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10642160b554a251",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "f7b2c76fcf23f66d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "e0548190413dfaf5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8e8247547b4543e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "679ceeea3d5a6459",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb914f02998c86be",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "5e31b8c4dded2a04",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "9879c7465323bd72",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "f82fd5be4c00a015",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "7ad228df27f81926",
+  "lastOpenFiles": [
+    "01. Bienvenido ducumentacion db_cadep.md",
+    "resumen para que sirve cada tabla.md",
+    "structureappointments (Estructura de citas).md",
+    "weeks (Semanas).md",
+    "schedules (Horarios).md",
+    "appointmentreports (Reportes de citas).md",
+    "appointments (Citas).md",
+    "archives (Expedientes clínicos).md",
+    "employees (Empleados o terapeutas).md",
+    "patientareas (Áreas asignadas a pacientes).md",
+    "patients (Pacientes).md",
+    "areas (Áreas de atención).md",
+    "branches (Sedes).md",
+    "roles (Roles).md",
+    "states (Estados).md",
+    "municipalities (Municipios).md",
+    "departments (Departamentos).md",
+    "relatives (Familiares).md",
+    "tokens (Tokens de autenticación).md",
+    "users (Usuarios).md"
+  ]
+}
